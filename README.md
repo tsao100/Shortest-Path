@@ -37,5 +37,7 @@ AutoCAD 9.03i 版在 DOSBOX (https://www.dosbox.com/) 虛擬機中運行。我�
 所有源代碼和軟件都被壓縮為 Cad-Code.zip 並放在存儲庫中。一些源代碼直接放在存儲庫中，以便於直接問啟閱讀。
 
 最短路徑、烏龜圖、碎形幾何的CAD操作影片上傳為ShortestPath.mp4、FractalTurtleGeometry.mp4。它們也可以在youtube中看到：
+
 https://youtu.be/FzUFyVEbhvs
+
 https://youtu.be/256guFYcyAA
