@@ -6,3 +6,4 @@ At that time, I did not know there were many algorithms to solve the Shortest pa
 I would like to solve the problem by applied  Dijkstra's Shortest path algorithm in the same tools and envrionment as I had in 1994. During these years, I am waiting for AutoCAD Release 9 from the forbiden old DOS software website. Finally, it was released by the old-dos.ru in 2019.DEC.14.
 
 Here it is.
+The AutoCAD Release 9.03i is running in the DOSBOX virtual machine. I also ajust the startup batch file, acadr9.bat, the acad.mnu file for a better developement environment.
