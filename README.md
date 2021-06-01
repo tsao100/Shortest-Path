@@ -16,7 +16,7 @@ The vedio files of the CAD operation for Shortest path, turtle graphics, fractal
 
 Shortest path: https://youtu.be/FzUFyVEbhvs 
 
-Turtle graphics, fractal geometry https://youtu.be/256guFYcyAA
+Turtle graphics, fractal geometry: https://youtu.be/256guFYcyAA
 
 The document above Chinese translated as below:
 
