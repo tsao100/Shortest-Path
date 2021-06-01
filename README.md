@@ -14,9 +14,9 @@ All the source codes and software are zipped together as Cad-Code.zip and put in
 
 The vedio files of the CAD operation for Shortest path, turtle graphics, fractal geometry are uploaded as ShortestPath.mp4, FractalTurtleGeometry.mp4. They also can be seen in youtube: 
 
-https://youtu.be/FzUFyVEbhvs 
+Shortest path: https://youtu.be/FzUFyVEbhvs 
 
-https://youtu.be/256guFYcyAA
+Turtle graphics, fractal geometry https://youtu.be/256guFYcyAA
 
 The document above Chinese translated as below:
 
@@ -38,6 +38,6 @@ AutoCAD 9.03i 版在 DOSBOX (https://www.dosbox.com/) 虛擬機中運行。我�
 
 最短路徑、烏龜圖、碎形幾何的CAD操作影片上傳為ShortestPath.mp4、FractalTurtleGeometry.mp4。它們也可以在youtube中看到：
 
-https://youtu.be/FzUFyVEbhvs
+最短路徑： https://youtu.be/FzUFyVEbhvs
 
-https://youtu.be/256guFYcyAA
+烏龜圖、碎形幾何： https://youtu.be/256guFYcyAA
